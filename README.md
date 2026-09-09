@@ -30,4 +30,4 @@ Tier 3 locations contribute the highest sales.
 Supermarket Type 1 has the strongest overall sales performance.
 
 ## Dashboard 
-![Blinkit_dashboard]([images/screenshot.png](https://github.com/anchalpatial899-hash/Blinkit-dashboard/blob/main/blinkit_dashboard.png))
+![Blinkit_dashboard](https://github.com/anchalpatial899-hash/Blinkit-dashboard/blob/main/blinkit_dashboard.png))
