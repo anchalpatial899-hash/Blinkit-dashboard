@@ -13,10 +13,10 @@ Identify sales trends based on outlet establishment year.
 Generate actionable business insights through interactive visualizations.
 
 ## Key KPIs
-Total Sales: The overall revenue generated from all items sold.
-Average Sales: The average revenue per sale.
-Number of Items: The total count of different items sold.
-Average Rating: The average customer rating for items sold. 
+* Total Sales: The overall revenue generated from all items sold.
+* Average Sales: The average revenue per sale.
+* Number of Items: The total count of different items sold.
+* Average Rating: The average customer rating for items sold. 
 
 ## Tools & Skills
 
