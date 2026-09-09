@@ -1,6 +1,7 @@
 
 # 🛒 Blinkit Sales & Outlet Performance Analysis – Power BI
- **bold text**  Project Overview  **bold text**
+
+## Project Overview  
 
 An interactive Power BI dashboard developed to analyze Blinkit's sales performance, product categories, outlet characteristics, and geographic distribution.
 
