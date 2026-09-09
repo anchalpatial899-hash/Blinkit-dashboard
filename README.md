@@ -26,7 +26,7 @@ Fruits & Vegetables and Snack Foods are among the top-performing categories.
 Medium-sized outlets generate the highest sales contribution.
 Tier 3 locations contribute the highest sales.
 Supermarket Type 1 has the strongest overall sales performance.
-📷 Dashboard
+📷 Dashboard https://github.com/anchalpatial899-hash/Blinkit-dashboard/blob/main/blinkit_dashboard.png
 
 Note: This is a data analytics case study using a Blinkit dataset and does not represent Blinkit's actual internal business data.
 
